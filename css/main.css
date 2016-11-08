@@ -1,0 +1,25 @@
+header{
+	background-color:#EEBB44;
+	margin-bottom: 50px;
+}
+
+header h1{
+	margin: 10px 0;
+}
+
+header p{
+	margin: 10px 0;
+}
+
+.profile{
+	border: 1px solid gray;
+	margin-bottom: 10px;
+}
+
+.profile img{
+	width: 100%
+
+}
+
+.profile-text{
+}
